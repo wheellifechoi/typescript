@@ -1,0 +1,6 @@
+{
+    "compo]ileroptions" : {
+        "target":"ES5",
+        "module":"CommonJS"
+    }
+}
